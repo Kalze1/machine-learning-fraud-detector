@@ -164,3 +164,7 @@ cython_debug/
 
 # data folder
 data/
+
+# MLflow artifacts
+mlruns.db
+mlruns 
